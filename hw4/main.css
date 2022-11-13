@@ -1,0 +1,16 @@
+.product-card {
+    height: 600px;
+    width: 400px;
+    border: 2px solid dimgray;
+}
+
+.product-title {
+    font-size: 30px;
+    font-weight: bolder;
+    color: darkslateblue;
+}
+
+.product-image {
+    height: 400px;
+    width: 300px;
+}
