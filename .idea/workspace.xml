@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24f0dcd4-f1ff-4146-9263-a43c77b78071" name="Changes" comment="hw3 js">
-      <change afterPath="$PROJECT_DIR$/hw4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/main.js" afterDir="false" />
+    <list default="true" id="24f0dcd4-f1ff-4146-9263-a43c77b78071" name="Changes" comment="hw4 js">
+      <change afterPath="$PROJECT_DIR$/hw6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -35,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/js_modul_2022",
-    "list.type.of.created.stylesheet": "CSS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/js_modul_2022&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +56,8 @@
       <workItem from="1667758117027" duration="5795000" />
       <workItem from="1667861903767" duration="1604000" />
       <workItem from="1667902933738" duration="10247000" />
-      <workItem from="1668348172360" duration="6692000" />
+      <workItem from="1668348172360" duration="7502000" />
+      <workItem from="1669125214748" duration="10916000" />
     </task>
     <task id="LOCAL-00001" summary="hw1">
       <created>1667759944819</created>
@@ -86,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667919753100</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hw4 js">
+      <created>1668355130799</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668355130799</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +116,7 @@
     <MESSAGE value="hw1 js" />
     <MESSAGE value="hw2 js" />
     <MESSAGE value="hw3 js" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw3 js" />
+    <MESSAGE value="hw4 js" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw4 js" />
   </component>
 </project>
