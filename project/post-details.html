@@ -21,7 +21,8 @@
         document.body.appendChild(divForPostDetails)
         console.log(field, parsePost[field])
     }
-
+    let h2 = document.createElement('h2');
+    h2.innerText = 'Comments:'
     fetch('https://jsonplaceholder.typicode.com/posts/'+parsePost['id']+'/comments').then(value => value.json())
         .then(userComments => {
 
@@ -32,7 +33,7 @@
                 document.body.appendChild(divForComment);
         }})
 
-
+    document.body.appendChild(h2)
 </script>
 </body>
 </html>
