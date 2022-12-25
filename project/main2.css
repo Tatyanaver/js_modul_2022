@@ -1,0 +1,32 @@
+.user_info {
+    background: darkseagreen;
+    font-size: 35px;
+}
+
+.btn_for_posts {
+    font-size: 20px;
+    width: 90%;
+    height: 80px;
+    margin: 0 auto;
+    display: block;
+    background: lightgray;
+}
+
+.title_post {
+    display: inline-block;
+    width: 18%;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 30px;
+    background: cadetblue;
+    text-align: center;
+}
+
+.btn_post {
+    width: 50%;
+    font-size: 20px;
+    margin: 10px auto;
+    display: block;
+    background: darkgray;
+}

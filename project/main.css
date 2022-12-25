@@ -1,0 +1,22 @@
+.main_box {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.user {
+    width:48%;
+    height: 150px;
+    font-size: 35px;
+    margin: 20px 10px;
+    background: antiquewhite;
+    text-align: center;
+}
+.btn_user {
+    width:80%;
+    height: 50px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+    background: burlywood;
+}

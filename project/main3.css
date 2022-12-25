@@ -1,0 +1,15 @@
+.post_details {
+    background: burlywood;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.comment {
+    background: bisque;
+    display: inline-block;
+    width: 18%;
+    height: 300px;
+    margin: 30px 10px;
+    border-radius: 10px;
+    font-size: 20px;
+}
