@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24f0dcd4-f1ff-4146-9263-a43c77b78071" name="Changes" comment="hw8 jscript">
-      <change afterPath="$PROJECT_DIR$/hw10/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw10/users.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hw9/index2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hw9/main3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/user-details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/js_modul_2022/hw10",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/js_modul_2022",
     "list.type.of.created.stylesheet": "CSS"
   }
 }]]></component>
@@ -63,6 +65,7 @@
       <workItem from="1670512114065" duration="8550000" />
       <workItem from="1670708297400" duration="25558000" />
       <workItem from="1671137320346" duration="921000" />
+      <workItem from="1671745579381" duration="2666000" />
     </task>
     <task id="LOCAL-00001" summary="hw1">
       <created>1667759944819</created>

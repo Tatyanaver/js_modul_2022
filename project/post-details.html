@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<script>
+    let url2 = new URL(location.href);
+    let post = url2.searchParams.get('post');
+    let parsePost = JSON.parse(post);
+    console.log(parsePost);
+    for (const field in parsePost){
+        let divForPostDetails = document.createElement('div')
+        divForPostDetails.innerText = field +': ' + parsePost[field]
+        document.body.appendChild(divForPostDetails)
+        console.log(field, parsePost[field])
+    }
+
+    fetch('https://jsonplaceholder.typicode.com/posts/'+parsePost['id']+'/comments').then(value => value.json())
+        .then(userComments => {
+            console.log(userComments)
+            for (const commentOfUser of userComments) {
+
+                let divForComment = document.createElement('div');
+                divForComment.innerText = commentOfUser.id + '- name: ' + commentOfUser.name + ';'+ 'email: ' + commentOfUser.email +';' + 'body: ' + commentOfUser.body;
+                document.body.appendChild(divForComment);
+        }})
+
+
+</script>
+</body>
+</html>
